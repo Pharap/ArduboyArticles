@@ -16,19 +16,3 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 A 'legalese' version of the licence can be found here:
 https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
-
----
-
-Note that these articles are specially licenced to Arduboy Inc. under the Creative Commons Attribution-NoDerivs 4.0 International Licence (henceforth referred to as (the) BY-ND).
-In summary anyone may share the articles providing that they give credit and make no adaptations\* to the content.
-They may however profit from the articles.
-
-A 'human readable' version of the licence can be found here:
-https://creativecommons.org/licenses/by-nd/4.0/
-
-A 'legalese' version of the licence can be found here:
-https://creativecommons.org/licenses/by-nd/4.0/legalcode
-
----
-
-\* Changing the format of the article does not constitute an adaptation, however translating the article does and hence permission must be acquired.
